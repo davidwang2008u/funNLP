@@ -1,0 +1,45 @@
+https://www.datasciencecentral.com/profiles/blogs/top-20-open-data-sources
+
+Data is everywhere, created and used by just about anyone. The days when companies or individuals had to pay significant sums of money to access useful and interesting datasets is long gone. Here is our top 20 list of the best free data sources available online.
+ 
+1. Data.gov.uk the UK government’s open data portal including the British National Bibliography – metadata on all UK books and publications since 1950.
+
+2. Data.gov Search through 194,832 USA data sets about topics ranging from education to Agriculture.
+
+3. US Census Bureau  latest population, behaviour and economic data in the USA.
+
+4.Socrata - software provider that works with governments to provide open data to the public, it also has its own open data network to explore.
+
+5.European Union Open Data Portal thousands of datasets about a broad range of topics in the European Union.
+
+6. DBpedia crowd sourced community trying to create a public database of all Wikipedia entries.
+
+7. The New York Times a searchable archive of all New York Times articles from 1851 to today.
+
+8. Dataportals.org datasets from all around the world collected in one place.
+
+9. The World Factbook information prepared by the CIA about, what seems like, all of the countries of the world.
+
+10. NHS Health and Social Care Information Centre data sets from the UK National Health Service.
+
+11. Healthdata.gov detailed USA healthcare data covering loads of health related topics.
+
+12. UNICEF statistics about the situation of children and women around the world.
+
+13. World Health organisation statistics concerning nutrition, disease and health.
+
+14. Amazon web services large repository of interesting data sets including the human genome project, NASA’s database and an index of 5 billion web pages.
+
+15. Google Public data explorer search through already mentioned and lesser known open data repositories.
+
+16. Gapminder a collection of datasets from the World Health Organisation and World Bank covering economic, medical and social statistics.
+
+17. Google Trends analyse the shift of searches throughout the years.
+
+18. Google Finance real-time finance data that goes back as far as 40 years.
+
+19. UCI Machine Learning Repository a collection of databases for the machine learning community.
+
+20. National Climatic Data Center world largest archive of climate data.
+ 
+For more interesting articles, projects and events visit our website or contact us directly.
